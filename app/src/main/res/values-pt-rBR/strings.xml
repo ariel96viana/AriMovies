@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_log">Por favor, verifique sua conexão com a internet</string>
+    <string name="popular_films">Filmes Populares</string>
+    <string name="most_popular_films">Os Filmes Mais Populares</string>
+    <string name="film_title">Film Title</string>
+    <string name="film_description">Film Description</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Ari Movies</string>
+    <string name="error_log">Please check your internet connection</string>
+    <string name="popular_films">Popular Films</string>
+    <string name="most_popular_films">Most Popular Films</string>
+    <string name="film_title">Film Title</string>
+    <string name="film_description">Film Description</string>
+</resources>
